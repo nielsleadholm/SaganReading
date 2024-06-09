@@ -15,7 +15,7 @@ It is with this understanding that we should live with a vivid appreciation of h
 
 # Background
 
-The intent of the project was to create a reading that made use of the beautiful words that both Carl Sagan and Ann Druyan have expressed, while conveying an overall narrative that would be fitting for a setting such as a non-religious wedding. I do not claim that Carl Sagan or Ann Druyan expressed the overall view in this reading, since by rearranging the words, their meaning has by definition been altered. However, the effort was born out of a profound respect for how eloquently they have discussed life and the Cosmos. In fact, it was inspired by the rearrangement first done by (user) (link), which in turn was a project inspired by the "Cosmic Love" reading sometimes attributed to Carl Sagan, but which contains a final sentence with no known attribution to Carl Sagan.
+The intent of this project was to create a reading that made use of the beautiful words that both Carl Sagan and Ann Druyan have expressed, while conveying an overall narrative that would be fitting for a setting such as a non-religious wedding. I do not claim that Carl Sagan or Ann Druyan expressed the overall view in this reading, since by rearranging the words, their meaning has by definition been altered. However, the effort was born out of a profound respect for how eloquently they have spoken about life and the Cosmos. In fact, it was inspired by the rearrangement first described by the user EverBe in this [Reddit Thread](https://www.reddit.com/r/weddingplanning/comments/957jdr/i_modified_the_carl_sagan_ceremony_reading_to/), which in turn was a project inspired by a reading sometimes attributed to Carl Sagan, but which contains a final sentence about the nature of love with no known source.
 
 In the process of rearranging the quotes to create a narrative, I have also added some filler words (e.g. for context or general flow), although I have tried my best to avoid adding anything that goes beyond the intent of a particular quote instance. The most heavily edited sentences vs. their original forms are:
 
@@ -24,9 +24,8 @@ _“Lost somewhere between this immensity and eternity is our tiny planetary hom
 and
 
 _“Every single moment that we are alive and we are together, every opportunity to treat each other with love, and to take care of one another, these are miraculous.”_
-I wrote _“treat each other with love”_, because I think it’s fair to assume this is what Ann Druyan meant in the associated quote, but something like the original of _“the way we treat each other”_ sounded too vague for the setting. 
 
-For more details on which source texts were used, and exactly how they made it into this reading, please see the separate Attribution document. 
+For more details on which source texts were used, and exactly how they were edited and used, please see the separate Attribution document. 
  
 
 **Copyright notice:** Please note that the copyright for the original quotations remains with the original owners, and so this is shared for non-commercial, informal use, such as at family gatherings. I do not claim any rights over the content of the reading. 
