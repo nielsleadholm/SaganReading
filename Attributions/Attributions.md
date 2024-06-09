@@ -1,4 +1,4 @@
-The following is an overview of all the quotes that were used in the reading, including their original source. Text that has been extracted is highlighted, while any instances where words were altered in an unclear way, some clarification is also provided. Finally, the quotes are broken down into which paragraph of the reading they are used for. 
+The following is an overview of all the quotes that were used in the reading, including their original source. Text that has been extracted is highlighted, while for any instances where words were altered in an unclear way, some clarification is also provided. Finally, the quotes are broken down into which paragraph of the reading they are used for. 
 
 ## First Paragraph
 
