@@ -26,7 +26,7 @@ The following is an overview of all the quotes that were used in the reading, in
 
 “The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan, Cosmos, 1980
 
-- "Calcium in our teeth" was removed, "carbon in our apple pies" was changed to "carbon in our cells", and "made" was changed to "forged". This is the only real 'artistic' change to any of the quotes. 
+- "Calcium in our teeth" was removed, "carbon in our apple pies" was changed to "carbon in our cells", and "made" was changed to "forged". This was the only change I made on the subjective basis that I thought it sounded more impactful for this setting. 
 
 “These are some of the things that hydrogen atoms do, given fifteen billion years of cosmic evolution.” - Carl Sagan, Cosmos, 1980
 
